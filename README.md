@@ -59,7 +59,11 @@ File Structure
     ├── requirements.txt
     └── README.md
 
-usage
+## Usage
 
 * Train the model with the dataset and evaluate its performance.
 * Use the pre-trained model to detect face masks in real-time using your webcam or process images from a folder.
+
+## Result
+
+The CNN model achieves high accuracy in detecting face masks, with the ability to generalize well across different face angles and lighting conditions.
